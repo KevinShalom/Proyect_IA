@@ -10,6 +10,6 @@ Platform to learn to play chess in a simple way for people without knowledge, ap
 (This readme will be updated during the course of the project)
 
 ### Informacion
-- Alumno: Kevin Ramses Ramirez Gomez
+- Alumnos: Kevin Ramses Ramirez Gomez, Kevin Shalom Herrera Covarrubias
 - Profesor: MICHEL EMANUEL LOPEZ FRANCO
 - Materia: Programación para Internet 2024A
