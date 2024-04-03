@@ -1,0 +1,65 @@
+body {
+    -image: url('img/background/pexels-bess-hamiti-36487.jpg');
+    background-size: cover; 
+    background-position: cover; 
+  }
+  .login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+  }
+  
+  .input-group {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  .input-group label {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #666;
+  }
+  
+  .input-group input {
+    padding: 10px 35px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+  
+  .input-group input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .input-group input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 12px 24px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .input-group input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
